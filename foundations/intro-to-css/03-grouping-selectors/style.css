@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.default-button,
+.urgent-button {
+    font-size: 24px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.default-button {
+    color: white;
+    background-color: black;
+}
+
+.urgent-button {
+    background-color: yellow;
+}
